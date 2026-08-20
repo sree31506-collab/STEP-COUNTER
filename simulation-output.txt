@@ -1,0 +1,29 @@
+======================================
+       STEP COUNTER SIMULATION
+======================================
+Threshold = 1.5
+--------------------------------------
+Sample 01 | Acceleration: 0.2 | Step: NO | Total Steps: 0
+Sample 02 | Acceleration: 0.4 | Step: NO | Total Steps: 0
+Sample 03 | Acceleration: 0.6 | Step: NO | Total Steps: 0
+Sample 04 | Acceleration: 1.8 | Step: DETECTED | Total Steps: 1
+Sample 05 | Acceleration: 2.1 | Step: NO | Total Steps: 1
+Sample 06 | Acceleration: 1.7 | Step: NO | Total Steps: 1
+Sample 07 | Acceleration: 0.5 | Step: NO | Total Steps: 1
+Sample 08 | Acceleration: 0.3 | Step: NO | Total Steps: 1
+Sample 09 | Acceleration: 1.9 | Step: DETECTED | Total Steps: 2
+Sample 10 | Acceleration: 2.3 | Step: NO | Total Steps: 2
+Sample 11 | Acceleration: 1.8 | Step: NO | Total Steps: 2
+Sample 12 | Acceleration: 0.4 | Step: NO | Total Steps: 2
+Sample 13 | Acceleration: 0.2 | Step: NO | Total Steps: 2
+Sample 14 | Acceleration: 1.7 | Step: DETECTED | Total Steps: 3
+Sample 15 | Acceleration: 2.0 | Step: NO | Total Steps: 3
+Sample 16 | Acceleration: 0.3 | Step: NO | Total Steps: 3
+Sample 17 | Acceleration: 0.4 | Step: NO | Total Steps: 3
+Sample 18 | Acceleration: 2.2 | Step: DETECTED | Total Steps: 4
+Sample 19 | Acceleration: 2.4 | Step: NO | Total Steps: 4
+Sample 20 | Acceleration: 0.2 | Step: NO | Total Steps: 4
+Sample 21 | Acceleration: 0.3 | Step: NO | Total Steps: 4
+--------------------------------------
+FINAL STEP COUNT: 4
+======================================
